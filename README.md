@@ -18,4 +18,4 @@ Leader has bird’s-eye view of members’ activities. Members can track spendin
 Option to add/remove members and change the Group Leader
 
 ## How to Run
-Prototype (index.html) can be accessed through Google Chrome (run with the flag '--allow-file-access-from-files').
+Open index.html with Internet Explorer (as Justinmind no longer opens on Google Chrome / Microsoft Edge).
