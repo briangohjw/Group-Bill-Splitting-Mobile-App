@@ -1,0 +1,77 @@
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 > .backgroundLayer {
+  height: calc(100% + -2px);
+  width: calc(100% + -2px);
+  background-color: #3EB84C;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #3EB84C;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #3EB84C;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #3EB84C;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #3EB84C;
+  border-radius: 19px 19px 19px 19px;
+  box-shadow: none;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 {
+  position: absolute;
+  width: 111px;
+  height: 38px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Open Sans',Arial;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 > .clipping, #m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 > .paddingLayer {
+  height: 36px;
+  width: 109px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Open Sans',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a #m-d6918039-Rectangle_1 span#rtr-m-d6918039-Rectangle_1_0 {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Open Sans',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#m-d6918039-ec22-4819-81c3-aee48c55b85a.master > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
