@@ -1,5 +1,5 @@
 # Group-Bill-Splitting-Mobile-App
-A prototype of a group bill splitting mobile application, created with Justinmind. Emerged champions in the SMU-PayPal challenge
+A prototype of a group bill splitting mobile application, created with Justinmind. Emerged champions in the SMUX-PayPal challenge
 
 ## Features (Proof of Concept)
 ### 1. Automatic Bill Splitting
@@ -18,4 +18,4 @@ Leader has bird’s-eye view of members’ activities. Members can track spendin
 Option to add/remove members and change the Group Leader
 
 ## How to Run
-Prototype (index.html) can be accessed with the Justinmind's Chrome Extension or Google Chrome (run with the flag '--allow-file-access-from-files').
+Prototype (index.html) can be accessed with the Justinmind's Chrome Extension (https://chrome.google.com/webstore/detail/pnfffbfcdapknabgmlnpagljkjdejaap) or Google Chrome (run with the flag '--allow-file-access-from-files').
